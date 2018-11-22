@@ -1,0 +1,17 @@
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/bin/Debug/netcoreapp2.1/CounterApi.Tests.deps.json
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/bin/Debug/netcoreapp2.1/CounterApi.Tests.runtimeconfig.json
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/bin/Debug/netcoreapp2.1/CounterApi.Tests.runtimeconfig.dev.json
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/bin/Debug/netcoreapp2.1/CounterApi.Tests.dll
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/bin/Debug/netcoreapp2.1/CounterApi.Tests.pdb
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/bin/Debug/netcoreapp2.1/CounterApi.dll
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/bin/Debug/netcoreapp2.1/CounterApi.pdb
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/obj/Debug/netcoreapp2.1/CounterApi.Tests.csprojAssemblyReference.cache
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/obj/Debug/netcoreapp2.1/CounterApi.Tests.csproj.CoreCompileInputs.cache
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/obj/Debug/netcoreapp2.1/CounterApi.Tests.AssemblyInfoInputs.cache
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/obj/Debug/netcoreapp2.1/CounterApi.Tests.AssemblyInfo.cs
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/obj/Debug/netcoreapp2.1/CounterApi.Tests.csproj.CopyComplete
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/obj/Debug/netcoreapp2.1/CounterApi.Tests.dll
+/Users/Marco/Projects/CounterApi/CounterApi.Tests/obj/Debug/netcoreapp2.1/CounterApi.Tests.pdb

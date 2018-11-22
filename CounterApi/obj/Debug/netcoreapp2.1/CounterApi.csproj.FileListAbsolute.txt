@@ -1,0 +1,14 @@
+/Users/Marco/Projects/CounterApi/CounterApi/bin/Debug/netcoreapp2.1/CounterApi.deps.json
+/Users/Marco/Projects/CounterApi/CounterApi/bin/Debug/netcoreapp2.1/CounterApi.runtimeconfig.json
+/Users/Marco/Projects/CounterApi/CounterApi/bin/Debug/netcoreapp2.1/CounterApi.runtimeconfig.dev.json
+/Users/Marco/Projects/CounterApi/CounterApi/bin/Debug/netcoreapp2.1/CounterApi.dll
+/Users/Marco/Projects/CounterApi/CounterApi/bin/Debug/netcoreapp2.1/CounterApi.pdb
+/Users/Marco/Projects/CounterApi/CounterApi/obj/Debug/netcoreapp2.1/CounterApi.csprojAssemblyReference.cache
+/Users/Marco/Projects/CounterApi/CounterApi/obj/Debug/netcoreapp2.1/CounterApi.csproj.CoreCompileInputs.cache
+/Users/Marco/Projects/CounterApi/CounterApi/obj/Debug/netcoreapp2.1/CounterApi.RazorAssemblyInfo.cache
+/Users/Marco/Projects/CounterApi/CounterApi/obj/Debug/netcoreapp2.1/CounterApi.RazorAssemblyInfo.cs
+/Users/Marco/Projects/CounterApi/CounterApi/obj/Debug/netcoreapp2.1/CounterApi.AssemblyInfoInputs.cache
+/Users/Marco/Projects/CounterApi/CounterApi/obj/Debug/netcoreapp2.1/CounterApi.AssemblyInfo.cs
+/Users/Marco/Projects/CounterApi/CounterApi/obj/Debug/netcoreapp2.1/CounterApi.RazorTargetAssemblyInfo.cache
+/Users/Marco/Projects/CounterApi/CounterApi/obj/Debug/netcoreapp2.1/CounterApi.dll
+/Users/Marco/Projects/CounterApi/CounterApi/obj/Debug/netcoreapp2.1/CounterApi.pdb
