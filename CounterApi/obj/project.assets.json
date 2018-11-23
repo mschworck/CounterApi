@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Marco/Projects/CounterApi/CounterApi/CounterApi.csproj",
+      "projectUniqueName": "/Users/Marco/Projects/mschworck/CounterApi/CounterApi.csproj",
       "projectName": "CounterApi",
-      "projectPath": "/Users/Marco/Projects/CounterApi/CounterApi/CounterApi.csproj",
+      "projectPath": "/Users/Marco/Projects/mschworck/CounterApi/CounterApi.csproj",
       "packagesPath": "/Users/Marco/.nuget/packages/",
-      "outputPath": "/Users/Marco/Projects/CounterApi/CounterApi/obj",
+      "outputPath": "/Users/Marco/Projects/mschworck/CounterApi/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

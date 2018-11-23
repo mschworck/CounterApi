@@ -32,7 +32,7 @@ namespace CounterApi.Controllers
         public ActionResult IncrementCounter()
         {
             _services.IncrementCounter();
-            return NoContent();
+            return Content("Counter has been incremented (+1)");
         }
 
         

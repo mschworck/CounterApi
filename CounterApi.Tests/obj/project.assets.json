@@ -14847,11 +14847,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Marco/Projects/CounterApi/CounterApi.Tests/CounterApi.Tests.csproj",
+      "projectUniqueName": "/Users/Marco/Projects/mschworck/CounterApi.Tests/CounterApi.Tests.csproj",
       "projectName": "CounterApi.Tests",
-      "projectPath": "/Users/Marco/Projects/CounterApi/CounterApi.Tests/CounterApi.Tests.csproj",
+      "projectPath": "/Users/Marco/Projects/mschworck/CounterApi.Tests/CounterApi.Tests.csproj",
       "packagesPath": "/Users/Marco/.nuget/packages/",
-      "outputPath": "/Users/Marco/Projects/CounterApi/CounterApi.Tests/obj",
+      "outputPath": "/Users/Marco/Projects/mschworck/CounterApi.Tests/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -14868,8 +14868,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/Users/Marco/Projects/CounterApi/CounterApi/CounterApi.csproj": {
-              "projectPath": "/Users/Marco/Projects/CounterApi/CounterApi/CounterApi.csproj"
+            "/Users/Marco/Projects/mschworck/CounterApi/CounterApi.csproj": {
+              "projectPath": "/Users/Marco/Projects/mschworck/CounterApi/CounterApi.csproj"
             }
           }
         }

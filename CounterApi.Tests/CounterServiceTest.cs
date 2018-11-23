@@ -1,18 +1,31 @@
 ﻿using System;
 using CounterApi.Controllers;
+using CounterApi.Models;
 using CounterApi.Services;
 
 namespace CounterApi.Tests
 {
-    public class CounterServiceTest 
+    public class CounterServiceTest : ICounterServices
     {
-        ICounterServices _service;
-        CounterController controller;
+        Counter _counter;
 
         public CounterServiceTest()
         {
-
-           // _service = new 
+            _counter = new Counter(0);
         }
+
+        public void IncrementCounter()
+        {
+            if (_counter != null)
+            {
+                _counter.Increment();
+            }
+        }
+
+        public int GetCounter()
+        {
+            return _counter.GetCounter();
+        }
+
     }
 }

@@ -39,12 +39,17 @@ namespace CounterApi
             {
                 app.UseDeveloperExceptionPage();
             }
-            else
+
+            if (env.IsProduction())
             {
+                app.UseExceptionHandler("/Error");
                 app.UseHsts();
             }
 
             app.UseHttpsRedirection();
+            app.UseStaticFiles();
+            app.UseCookiePolicy();
+
             app.UseMvc();
         }
     }
