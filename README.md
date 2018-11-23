@@ -1,7 +1,10 @@
 # GetCounter documentation
 
-#Introduction
+## Introduction
 The API provides a counter that can be called by any user
+- The current counter can be retrieved by anyone
+- The counter can be incremented by anyone
+- The counter is global and may be stored in memory
 
 ## Overview
 - To retrieve the counter call /getcounter 
